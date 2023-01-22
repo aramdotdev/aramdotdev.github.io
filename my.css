@@ -1,3 +1,17 @@
+@media (max-width: 576px) {
+    .under-construction h1 {
+        font-size: 2em;
+    }
+    
+    .social-icons {
+        flex-wrap: wrap;
+    }
+    .social-icons a {
+        width: 50%;
+        text-align: center;
+    }
+}
+
 body {
     background: linear-gradient(to right, #a7bfe8, #f5f5f5); /* gradient colors */
   }
