@@ -47,5 +47,7 @@ i {
 
 .fa-envelope:hover{
     color: #3366CC;
-    transition: all 0.2s ease-in-out;
+    background: linear-gradient(to right, #3366CC, #5851db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
